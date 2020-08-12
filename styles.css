@@ -1,0 +1,15 @@
+
+body {background-color:#f9f9f9;}
+
+hr {background-color:#f9f9f9;
+  border-style: none;border-top-style:dotted;
+  height:0px; width: 30%;border-width:7px;border-color:#151965}
+
+  h1 { color:#151965; font-family:Abiah;letter-spacing: 1px; font-size: 55px}
+  h3 {color:#151965; font-family:Abiah;letter-spacing: 1px; font-size: 25px}
+
+p {color:#2e279d; font-family:optima;letter-spacing: 1px; font-size:17px;}
+li {color:#2e279d; font-family:optima;letter-spacing: 1px; font-size:17px;}
+td {color:#2e279d; font-family:optima;letter-spacing: 1px; font-size:17px;}
+label {color:#2e279d; font-family:optima;letter-spacing: 1px; font-size:17px;}
+th {color:#151965; font-family:Abiah; letter-spacing: 1px; font-size: 20px}
